@@ -67,11 +67,12 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/mekserina/KALEOS">
-    <img width="49%" src="https://github-readme-stats.shion.dev/api/pin/?username=mekserina&repo=KALEOS&theme=tokyonight&hide_border=true&description_lines_count=2">
-  </a>
-</p>
+<div align="center">
+
+### 🌌 [KALEOS — AArch64 Pure Microkernel Operating System](https://github.com/mekserina/KALEOS)
+> **Pure microkernel architecture featuring zero-copy SPSC IPC, lock-free MLFQ scheduler, DVFS power governor, and hardware-accelerated EL0 graphics shell.**
+
+</div>
 
 ---
 
