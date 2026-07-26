@@ -1,9 +1,8 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=10,12,14,20,24,30&text=Mekserina&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20KALEOS%20Kernel%20Architect%20%7C%20ARM64%20%26%20Rust&descAlignY=62&descAlign=50" alt="Mekserina Banner">
-</p>
+<h1 align="center">⚡ Mekserina</h1>
+<h3 align="center">Systems Engineer & KALEOS Kernel Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F20089&center=true&vCenter=true&width=550&lines=Building+KALEOS+Pure+ARM64+Microkernel;Rust+%2B+Assembly+%2B+Bare-Metal;Zero-Copy+Ring+IPC+%26+Lock-Free+MLFQ;Open+source+systems+architect" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F20089&center=true&vCenter=true&width=600&lines=Building+KALEOS+Pure+ARM64+Microkernel;Rust+%2B+ARM64+Assembly+%2B+Bare-Metal;Zero-Copy+Ring+IPC+%26+Lock-Free+MLFQ;Open+source+systems+architect" alt="Typing SVG">
 </p>
 
 <div align="center">
@@ -90,7 +89,3 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
   <img src="https://img.shields.io/github/followers/mekserina?style=flat-square&logo=github&label=Followers&color=F20089">
   <img src="https://img.shields.io/github/stars/mekserina?style=flat-square&logo=star&label=Stars&color=F20089">
 </div>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=10,12,14,20,24,30&section=footer" alt="Footer Banner">
-</p>
