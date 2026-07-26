@@ -1,11 +1,9 @@
-<a href="#">
-  <img alt="Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Mekserina&reversal=true&section=header&fontAlignY=40&fontSize=60&textBg=false&animation=twinkling&fontColor=FFFFFF&desc=Systems+Engineer+%7C+KALEOS+Kernel+Architect+%7C+ARM64+%26+Rust&descAlignY=60&descAlign=50">
-</a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=10,12,14,20,24,30&text=Mekserina&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20KALEOS%20Kernel%20Architect%20%7C%20ARM64%20%26%20Rust&descAlignY=62&descAlign=50" alt="Mekserina Banner">
+</p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F20089&center=true&vCenter=true&width=550&lines=Building+KALEOS+Pure+ARM64+Microkernel;Rust+%2B+Assembly+%2B+Bare-Metal;Zero-Copy+Ring+IPC+%26+Lock-Free+MLFQ;Open+source+systems+architect" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F20089&center=true&vCenter=true&width=550&lines=Building+KALEOS+Pure+ARM64+Microkernel;Rust+%2B+Assembly+%2B+Bare-Metal;Zero-Copy+Ring+IPC+%26+Lock-Free+MLFQ;Open+source+systems+architect" alt="Typing SVG">
 </p>
 
 <div align="center">
@@ -48,9 +46,7 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,git,docker,python&theme=dark&perline=8">
-  </a>
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,git,docker,python&theme=dark&perline=8">
 </p>
 
 <p align="center">
@@ -95,6 +91,6 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
   <img src="https://img.shields.io/github/stars/mekserina?style=flat-square&logo=star&label=Stars&color=F20089">
 </div>
 
-<p>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:2d00f7,50:f20089,100:2d00f7&section=footer&reversal=true&animation=twinkling">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=10,12,14,20,24,30&section=footer" alt="Footer Banner">
 </p>
