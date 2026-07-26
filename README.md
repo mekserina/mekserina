@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F20089&center=true&vCenter=true&width=550&lines=Building+KALEOS+Pure+ARM64+Microkernel;Rust+%2B+Assembly+%2B+Bare-Metal;Zero-Copy+Ring+IPC+%26+Lock-Free+MLFQ;Open+source+systems+architect" alt="Typing SVG">
   </a>
 </p>
@@ -48,7 +48,7 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,git,docker,python&theme=dark&perline=8">
   </a>
 </p>
@@ -69,8 +69,8 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
 
 <div align="center">
 
-### 🌌 [KALEOS — AArch64 Pure Microkernel Operating System](https://github.com/mekserina/KALEOS)
-> **Pure microkernel architecture featuring zero-copy SPSC IPC, lock-free MLFQ scheduler, DVFS power governor, and hardware-accelerated EL0 graphics shell.**
+### 🌌 KALEOS — AArch64 Saf Mikro Çekirdek İşletim Sistemi
+> **Sıfır kopyalı SPSC IPC, kilitlenmesiz MLFQ zamanlayıcı, DVFS güç yöneticisi ve donanım hızlandırmalı EL0 grafik kabuğu özelliklerine sahip saf mikro çekirdek mimarisi.**
 
 </div>
 
@@ -88,11 +88,6 @@ I'm a systems engineer from Turkey passionate about **bare-metal OS development 
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://github.com/mekserina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://x.com"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-</div>
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=mekserina&label=Profile+Views&countColor=%23f20089&style=flat-square&labelStyle=upper">
