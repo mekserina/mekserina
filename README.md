@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Turkey-8900f2?style=for-the-badge&labelColor=a100f2">
   <img src="https://img.shields.io/badge/Specialization-AArch64_BareMetal-bc00dd?style=for-the-badge&labelColor=d100d1">
   <img src="https://img.shields.io/badge/%F0%9F%A6%80-Rust_Systems-f20089?style=for-the-badge&labelColor=db00b6">
+  <a href="https://console.algora.io"><img src="https://img.shields.io/badge/Algora-Bounty_Hunter-ff5722?style=for-the-badge&logo=target&logoColor=white"></a>
 </div>
 
 <br>
@@ -88,6 +89,18 @@ KALEOS isolates drivers and system services from the supervisor core (EL1) using
 * 🎵 **Real-Time Audio Subsystem:** BCM2711 PWM1 hardware engine operating at 24.0 kHz over 3.5mm analog stereo jack with zero floating-point noise.
 
 ---
+
+---
+
+## 🎯 Open-Source Engineering & Bounty Hunting
+
+<div align="center">
+  <a href="https://console.algora.io" target="_blank">
+    <img width="600" src="https://algora.io/og/user/mekserina" alt="Mekserina on Algora" style="border-radius: 12px; border: 1px solid #30363d;" />
+  </a>
+  <br>
+  <p><sub>⚡ Active Systems Contributor & Open-Source Bounty Hunter on <a href="https://algora.io">Algora OSS</a></sub></p>
+</div>
 
 ## 📊 GitHub Analytics
 
