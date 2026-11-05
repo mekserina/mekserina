@@ -96,7 +96,7 @@ KALEOS isolates drivers and system services from the supervisor core (EL1) using
 
 <div align="center">
   <a href="https://console.algora.io" target="_blank">
-    <img width="600" src="https://algora.io/og/user/mekserina" alt="Mekserina on Algora" style="border-radius: 12px; border: 1px solid #30363d;" />
+    <img width="600" src="https://algora.io/og/user/mekserina?v=2" alt="mekserina on Algora" style="border-radius: 12px; border: 1px solid #30363d;" />
   </a>
   <br>
   <p><sub>⚡ Active Systems Contributor & Open-Source Bounty Hunter on <a href="https://algora.io">Algora OSS</a></sub></p>
