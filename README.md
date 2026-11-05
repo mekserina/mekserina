@@ -52,8 +52,8 @@ I'm a systems engineer and operating system architect from Turkey specializing i
 <p align="center">
   <img src="https://img.shields.io/badge/AArch64-ARMv8--A-00ADD8?style=flat-square&logo=arm&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry_Pi_4-BCM2711-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white">
-  <img src="https://img.shields.io/badge/Kani-136%2F136_Formal_Proofs-000000?style=flat-square&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/IPC_Latency-~2.5_%C2%B5s_(p50)-00C853?style=flat-square&logo=speedtest&logoColor=white">
+  <img src="https://img.shields.io/badge/Kani-279%2F279_Formal_Proofs-000000?style=flat-square&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/IPC_Latency-~1.37_%C2%B5s_(2%2C056_Cyc)-00C853?style=flat-square&logo=speedtest&logoColor=white">
   <img src="https://img.shields.io/badge/TCB_Size-<15k_LoC-blueviolet?style=flat-square">
 </p>
 
@@ -67,13 +67,13 @@ I'm a systems engineer and operating system architect from Turkey specializing i
 
 <div align="center">
 
-### 🌌 KALEOS — Next-Generation AArch64 Pure Microkernel in Rust
+### 🌌 [KALEOS — Next-Generation AArch64 Pure Microkernel in Rust](https://github.com/mekserina/KALEOS-Showcase)
 > **A Mathematically Verified, FPU-Free, Zero-Copy Microkernel for Critical Embedded Silicon**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-Pure_Microkernel_(TCB_<15k_LoC)-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Live_IPC_SLA-388%2C349_RPC%2Fs_(~2.5_%C2%B5s)-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kani_Proofs-136%2F136_Passed_(100%25)-black?style=for-the-badge&logo=rust">
+  <img src="https://img.shields.io/badge/Live_IPC_SLA-727%2C802_RPC%2Fs_(~1.37_%C2%B5s)-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kani_Proofs-279%2F279_Passed_(100%25)-black?style=for-the-badge&logo=rust">
 </p>
 
 </div>
